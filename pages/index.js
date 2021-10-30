@@ -7,7 +7,7 @@ import {
 } from "@heroicons/react/solid";
 import Image from "next/image";
 import Footer from "../components/footer";
-import { useRef } from "react";
+import React, { useRef } from 'react'
 import { useRouter } from "next/router";
 import Link from 'next/link';
 
