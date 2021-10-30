@@ -1,6 +1,5 @@
-import React from "react";
+
 import { LightningBoltIcon } from "@heroicons/react/solid";
-import { useRouter } from "next/dist/client/router";
 import Link from 'next/link';
 
 
